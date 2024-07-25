@@ -1,0 +1,103 @@
+body{
+    margin: auto;
+    background-color: rgb(25, 191, 233)
+}
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: rgb(245, 240, 240);
+    
+}
+header{
+    background-image: linear-gradient(to top, rgb(3, 51, 3), rgb(8, 201, 8) );
+    padding: 10px;
+    margin: auto;
+   
+}
+nav > a{
+    text-align: left;
+    padding-right: 33px;
+    text-decoration: none;
+    color: rgb(250, 248, 248);
+    
+}
+a:hover{
+    color: aqua;
+}
+main > p{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 255, 255, 0.733);
+    text-align: justify;
+    
+}
+div{
+    padding: 30px;
+    width: 800px;
+    height: 2350px;
+    border: 1px solid rgb(20, 20, 20);
+    box-shadow: 1px 1px 0px 1px rgba(0, 0, 0, 0.281);
+    text-align: center;
+    margin-left: 230px;
+    margin-top: 10px;
+    background-color: white;
+}
+div > p{
+    color: rgb(0, 0, 0);
+    
+    
+}
+p > a{
+    color: brown;
+    text-decoration: none;
+    width: 0px;
+    height: 0px;
+    margin: 0px;
+    padding: 1px;
+   outline: 2px dashed rgb(126, 15, 15);
+
+
+}
+a:hover{
+    color: blueviolet;
+}
+ h3{
+    background-image: linear-gradient(to bottom,green,transparent)
+ }
+ div > img{
+    width: 700px;
+    height: 300px;
+    padding-left: 10px;
+ }
+ div > h2{
+    text-align: left;
+ }
+ div > h3{
+    text-align: left;
+ }
+ h4{
+    background-color: rgba(6, 236, 6, 0.425);
+    text-align: left;
+ }
+ h5{
+    text-align: left;
+    color: white;
+    background-color: green;
+    padding: 10px;
+    margin: auto;
+    border-radius: 15px 20px;
+ }
+ form{
+    text-align: left;
+    border: 2px solid rgb(20, 20, 20);
+    height: 350px;
+    background-color: rgba(172, 255, 47, 0.623);
+    border-radius: 20px;
+ }
+ form > p{
+    color: black;
+    box-shadow: 2px 2px 0px 1px rgba(0, 0, 0, 0);
+ }
+ 
